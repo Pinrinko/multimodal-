@@ -1,0 +1,26 @@
+# Core Deep Learning & Machine Learning Frameworks
+# PyTorch with CUDA 11.8 support, essential for GPU acceleration.
+torch==2.7.0+cu118
+torchvision==0.22.0+cu118
+torchaudio==2.7.0+cu118
+
+# Hugging Face Ecosystem for models and pipelines.
+transformers==4.53.0
+sentence-transformers==4.1.0
+accelerate==1.7.0
+safetensors==0.5.3
+
+# Web Application Framework
+# Used to build the interactive user interface.
+streamlit==1.46.1
+
+# Data Handling & Scientific Computing
+# Foundational libraries for data manipulation and numerical operations.
+numpy==2.0.2
+pandas==2.2.3
+scikit-learn==1.6.1
+Pillow==10.4.0
+
+# Utilities
+# For displaying progress bars during long-running computations.
+tqdm==4.67.1
