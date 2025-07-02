@@ -52,7 +52,7 @@
 1.  **克隆项目**:
     ```bash
     git clone https://github.com/Pinrinko/multimodal-
-    cd [项目目录]
+    cd multimodal-
     ```
 
 2.  **创建并激活Conda环境** (推荐):
